@@ -1,0 +1,9 @@
+file,paper_mapping,description
+data/results/exp1_baseline_by_tier.csv,Main Table IV / Experiment 1,20-contract baseline across four complexity tiers.
+data/results/exp2_provider_summary.csv,Main Table V + Supplementary Table S4 / Experiment 2,Provider-level zero-shot and few-shot means on the finalized 60-contract shared benchmark.
+data/results/exp2_gap_summary.csv,Experiment 2 textual result / RQ1,Structural-to-semantic-understanding ratio on the finalized Exp2 benchmark.
+data/results/exp3_ablation_summary.csv,Main Table VII + Supplementary Table S5 / Experiment 3,Configuration-level ablation means and deltas.
+data/results/exp4_provider_scalability_summary.csv,Main Table VI + Supplementary Table S6 / Experiment 4,Provider-level scalability summary.
+data/results/exp4_complexity_scaling_summary.csv,Experiment 4 textual analysis,Complexity-tier runtime and test-count trends.
+data/results/exp5_human_evaluation_summary.csv,Experiment 5 / RQ4,Overall human-evaluation summary on the 200-case aligned set.
+data/results/exp5_correlation_summary.csv,Supplementary Table S7,Automated-vs-human correlation summary with reported confidence intervals.

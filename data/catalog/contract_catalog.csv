@@ -1,0 +1,220 @@
+contract,local_path,source_repository,source_link
+KYCAttributes,contracts/tokenmarketnet/contracts/security-token/KYCAttributes.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+ReturnValue,contracts/ReturnValue.sol,Public Smart-Contract Benchmark Collections,https://github.com/crytic/not-so-smart-contracts
+IERC677,contracts/ERC20/IERC677.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+IERC677Receiver,contracts/ERC20/IERC677Receiver.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+BrokerbotLib,contracts/utils/BrokerbotLib.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+FractionalERC20,contracts/tokenmarketnet/contracts/FractionalERC20.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+AdminProxy,contracts/permissioning/contracts/AdminProxy.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+SecurityTransferAgentInterface,contracts/tokenmarketnet/contracts/security-token/SecurityTransferAgentInterface.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+KYCInterface,contracts/tokenmarketnet/contracts/security-token/KYCInterface.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+PreICOProxyBuyer_EventCompatibility,contracts/tokenmarketnet/contracts/PreICOProxyBuyer_EventCompatibility.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+MultichainWalletArgumentSource,contracts/multisig/MultichainWalletArgumentSource.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+ERC677Token,contracts/tokenmarketnet/contracts/security-token/ERC677Token.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+Rollout,contracts/multisig/Rollout.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+MultiSigWalletMaster,contracts/multisig/MultiSigWalletMaster.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+PriceOracle,contracts/compound/contracts/PriceOracle.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+Adoption,contracts/Adoption.sol,Public Smart-Contract Benchmark Collections,https://github.com/crytic/not-so-smart-contracts
+IOfferFactory,contracts/draggable/IOfferFactory.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+IBeacon,contracts/IBeacon.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+IAuthority,contracts/IAuthority.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+NodeRulesProxy,contracts/permissioning/contracts/NodeRulesProxy.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+NullFinalizeAgent,contracts/tokenmarketnet/contracts/NullFinalizeAgent.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+Voting,contracts/Voting.sol,CodeforDAO Contracts,https://github.com/CodeForDAO/contracts
+Recoverable,contracts/tokenmarketnet/contracts/Recoverable.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+UpgradeAgent,contracts/tokenmarketnet/contracts/UpgradeAgent.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+AnnouncementInterface,contracts/tokenmarketnet/contracts/security-token/AnnouncementInterface.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+CErc20Delegate,contracts/compound/contracts/CErc20Delegate.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+StandardTokenExt,contracts/tokenmarketnet/contracts/StandardTokenExt.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+MultichainSharesMaster,contracts/multichain/MultichainSharesMaster.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+FinalizeAgent,contracts/tokenmarketnet/contracts/FinalizeAgent.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+DefaultFinalizeAgent,contracts/tokenmarketnet/contracts/DefaultFinalizeAgent.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+SimpleDAO,contracts/SimpleDAO.sol,Public Smart-Contract Benchmark Collections,https://github.com/crytic/not-so-smart-contracts
+UnrestrictedTransferAgent,contracts/tokenmarketnet/contracts/security-token/UnrestrictedTransferAgent.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+AccountRulesProxy,contracts/permissioning/contracts/AccountRulesProxy.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+ERC20Errors,contracts/ERC20/ERC20Errors.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+BurnableCrowdsaleToken,contracts/tokenmarketnet/contracts/BurnableCrowdsaleToken.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+AllocatedCrowdsale,contracts/tokenmarketnet/contracts/AllocatedCrowdsale.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+AuthorityUtils,contracts/AuthorityUtils.sol,CodeforDAO Contracts,https://github.com/CodeForDAO/contracts
+MultiSigCloneFactory,contracts/multisig/MultiSigCloneFactory.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+Migrations,contracts/permissioning/contracts/Migrations.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+ERC20Permit2,contracts/ERC20/ERC20Permit2.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+ERC20Named,contracts/ERC20/ERC20Named.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+Haltable,contracts/tokenmarketnet/contracts/Haltable.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+ERC677,contracts/tokenmarketnet/contracts/security-token/ERC677.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+IERC721Receiver,contracts/IERC721Receiver.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+Initializable,contracts/utils/Initializable.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+FactoryManager,contracts/utils/factory/FactoryManager.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+MyToken,contracts/MyToken.sol,Public Smart-Contract Benchmark Collections,https://github.com/crytic/not-so-smart-contracts
+AuthorizedCall,contracts/EIP7702/AuthorizedCall.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+FactoryStructs,contracts/utils/factory/FactoryStructs.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+BurnableToken,contracts/tokenmarketnet/contracts/BurnableToken.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+RestrictedTransferAgent,contracts/tokenmarketnet/contracts/security-token/RestrictedTransferAgent.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+IRecoverable,contracts/recovery/IRecoverable.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+DraggableSharesWithPredecessor,contracts/shares/DraggableSharesWithPredecessor.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+Maximillion,contracts/compound/contracts/Maximillion.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+JumpRateModelV2,contracts/compound/contracts/JumpRateModelV2.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+CErc20Immutable,contracts/compound/contracts/CErc20Immutable.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+IERC1363Spender,contracts/IERC1363Spender.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+AccountIngress,contracts/permissioning/contracts/AccountIngress.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+IShares,contracts/shares/IShares.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+NodeIngress,contracts/permissioning/contracts/NodeIngress.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+EtherLotto,contracts/EtherLotto.sol,Public Smart-Contract Benchmark Collections,https://github.com/crytic/not-so-smart-contracts
+ExposedAccountRulesList,contracts/permissioning/contracts/ExposedAccountRulesList.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+InterestRateModel,contracts/compound/contracts/InterestRateModel.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+IntentVerifier,contracts/market/IntentVerifier.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+TimeVault,contracts/tokenmarketnet/contracts/TimeVault.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+DraggableSharesWithPredecessorExternal,contracts/shares/DraggableSharesWithPredecessorExternal.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+FlatPricing,contracts/tokenmarketnet/contracts/FlatPricing.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+ERC20SnapshotMixin,contracts/tokenmarketnet/contracts/security-token/ERC20SnapshotMixin.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+SafeMathLib,contracts/tokenmarketnet/contracts/SafeMathLib.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+AuthorizedCallVerifier,contracts/EIP7702/AuthorizedCallVerifier.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+BrokerbotRegistry,contracts/brokerbot/BrokerbotRegistry.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+IReactor,contracts/market/IReactor.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+Path,contracts/utils/Path.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+Issuer,contracts/tokenmarketnet/contracts/Issuer.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+AllowlistDraggableShares,contracts/shares/AllowlistDraggableShares.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+PricingStrategy,contracts/tokenmarketnet/contracts/PricingStrategy.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+Ownable2Step,contracts/Ownable2Step.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+ProxyAdmin,contracts/ProxyAdmin.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+ExposedAdminList,contracts/permissioning/contracts/ExposedAdminList.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+AuthorizedExecutor,contracts/EIP7702/AuthorizedExecutor.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+AllowlistDraggableFactory,contracts/utils/factory/AllowlistDraggableFactory.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+ERC20PermitLight,contracts/ERC20/ERC20PermitLight.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+OfferFactory,contracts/draggable/OfferFactory.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+IOffer,contracts/draggable/IOffer.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+AMLToken,contracts/tokenmarketnet/contracts/AMLToken.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+IntentHash,contracts/market/IntentHash.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+AllocatedCrowdsaleMixin,contracts/tokenmarketnet/contracts/AllocatedCrowdsaleMixin.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+GovernorBravoDelegator,contracts/compound/contracts/Governance/GovernorBravoDelegator.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+ExposedNodeRulesList,contracts/permissioning/contracts/ExposedNodeRulesList.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+IRecoveryHub,contracts/recovery/IRecoveryHub.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+BytesLib,contracts/utils/BytesLib.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+IBrokerbot,contracts/brokerbot/IBrokerbot.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+BytesDeserializer,contracts/tokenmarketnet/contracts/BytesDeserializer.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+SecondaryMarketFactory,contracts/market/SecondaryMarketFactory.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+IAccessControl,contracts/IAccessControl.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+UncappedCrowdsale,contracts/tokenmarketnet/contracts/UncappedCrowdsale.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+IERC20Permit,contracts/ERC20/IERC20Permit.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+UniswapV2Factory,contracts/uniswap/UniswapV2Factory.sol,Public Benchmark / Curated Source,https://github.com/crytic/not-so-smart-contracts
+UniswapV2Migrator,contracts/uniswapv2_periphery/UniswapV2Migrator.sol,Uniswap V2 Periphery,https://github.com/Uniswap/v2-periphery
+ErrorReporter,contracts/compound/contracts/ErrorReporter.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+AllowlistShares,contracts/shares/AllowlistShares.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+BonusFinalizeAgent,contracts/tokenmarketnet/contracts/BonusFinalizeAgent.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+ERC20Cancelled,contracts/draggable/ERC20Cancelled.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+MintedTokenCappedCrowdsale,contracts/tokenmarketnet/contracts/MintedTokenCappedCrowdsale.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+MintedEthCappedCrowdsale,contracts/tokenmarketnet/contracts/MintedEthCappedCrowdsale.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+BrokerbotFactory,contracts/utils/factory/BrokerbotFactory.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+ExtraFinalizeAgent,contracts/tokenmarketnet/contracts/ExtraFinalizeAgent.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+Permit2Hub,contracts/utils/Permit2Hub.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+VestingWalletCliff,contracts/VestingWalletCliff.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+Reservoir,contracts/compound/contracts/Reservoir.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+BrokerbotQuoter,contracts/brokerbot/BrokerbotQuoter.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+SimplePriceOracle,contracts/compound/contracts/SimplePriceOracle.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+RelaunchedCrowdsale,contracts/tokenmarketnet/contracts/RelaunchedCrowdsale.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+Ingress,contracts/permissioning/contracts/Ingress.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+KYCPayloadDeserializer,contracts/tokenmarketnet/contracts/KYCPayloadDeserializer.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+IssuerWithId,contracts/tokenmarketnet/contracts/IssuerWithId.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+EIP20NonStandardInterface,contracts/compound/contracts/EIP20NonStandardInterface.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+Ownable,contracts/Ownable.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+MultichainSharesChild,contracts/multichain/MultichainSharesChild.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+EIP20Interface,contracts/compound/contracts/EIP20Interface.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+IDraggable,contracts/draggable/IDraggable.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+UpgradeableToken,contracts/tokenmarketnet/contracts/UpgradeableToken.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+NodeRulesList,contracts/permissioning/contracts/NodeRulesList.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+WhitePaperInterestRateModel,contracts/compound/contracts/WhitePaperInterestRateModel.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+MintableToken,contracts/tokenmarketnet/contracts/MintableToken.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+Address,contracts/utils/Address.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+OpenAddressLottery,contracts/OpenAddressLottery.sol,Public Smart-Contract Benchmark Collections,https://github.com/crytic/not-so-smart-contracts
+CentrallyIssuedToken,contracts/tokenmarketnet/contracts/CentrallyIssuedToken.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+AccountRulesList,contracts/permissioning/contracts/AccountRulesList.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+JumpRateModel,contracts/compound/contracts/JumpRateModel.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+Admin,contracts/permissioning/contracts/Admin.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+BasicKYC,contracts/tokenmarketnet/contracts/security-token/BasicKYC.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+SignedMath,contracts/SignedMath.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+ICompoundTimelock,contracts/ICompoundTimelock.sol,Public Benchmark / Curated Source,https://github.com/crytic/not-so-smart-contracts
+IERC20,contracts/ERC20/IERC20.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+ERC865,contracts/tokenmarketnet/contracts/security-token/ERC865.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+RLPEncode,contracts/multisig/RLPEncode.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+Timelock,contracts/compound/contracts/Timelock.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+AdminList,contracts/permissioning/contracts/AdminList.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+UniswapV2ERC20,contracts/uniswap/UniswapV2ERC20.sol,Public Benchmark / Curated Source,https://github.com/crytic/not-so-smart-contracts
+PaymentForwarder,contracts/tokenmarketnet/contracts/PaymentForwarder.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+Nonce,contracts/multisig/Nonce.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+KYCCrowdsale,contracts/tokenmarketnet/contracts/KYCCrowdsale.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+ReleasableToken,contracts/tokenmarketnet/contracts/ReleasableToken.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+CrowdsaleToken,contracts/tokenmarketnet/contracts/CrowdsaleToken.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+AccountStorage,contracts/permissioning/contracts/AccountStorage.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+BaseJumpRateModelV2,contracts/compound/contracts/BaseJumpRateModelV2.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+DraggableShares,contracts/shares/DraggableShares.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+CCIPAdministrable,contracts/multichain/CCIPAdministrable.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+ComptrollerInterface,contracts/compound/contracts/ComptrollerInterface.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+Government,contracts/Government.sol,CodeforDAO Contracts,https://github.com/CodeForDAO/contracts
+TransparentUpgradeableProxy,contracts/TransparentUpgradeableProxy.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+ERC2771Context,contracts/metatx/ERC2771Context.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+ERC20,contracts/ERC20.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+AccountRules,contracts/permissioning/contracts/AccountRules.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+NodeRules,contracts/permissioning/contracts/NodeRules.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+PaymentSplitter,contracts/tokenmarketnet/contracts/PaymentSplitter.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+AdvancedTransferAgent,contracts/tokenmarketnet/contracts/security-token/AdvancedTransferAgent.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+NodeStorage,contracts/permissioning/contracts/NodeStorage.sol,Permissioning Smart Contracts,https://github.com/ConsenSys/permissioning-smart-contracts
+DAIInterestRateModelV3,contracts/compound/contracts/DAIInterestRateModelV3.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+MultichainWallet,contracts/multisig/MultichainWallet.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+CEther,contracts/compound/contracts/CEther.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+Unitroller,contracts/compound/contracts/Unitroller.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+PresaleFundCollector,contracts/tokenmarketnet/contracts/PresaleFundCollector.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+SafeMath,contracts/compound/contracts/SafeMath.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+IUniswapV3,contracts/brokerbot/IUniswapV3.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+TokenFactory,contracts/utils/factory/TokenFactory.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+ERC20Allowlistable,contracts/ERC20/ERC20Allowlistable.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+KYCPresale,contracts/tokenmarketnet/contracts/KYCPresale.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+ERC20Recoverable,contracts/recovery/ERC20Recoverable.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+CDaiDelegate,contracts/compound/contracts/CDaiDelegate.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+MilestonePricing,contracts/tokenmarketnet/contracts/MilestonePricing.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+TokenTranchePricing,contracts/tokenmarketnet/contracts/TokenTranchePricing.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+Account,contracts/Account.sol,CodeforDAO Contracts,https://github.com/CodeForDAO/contracts
+Crowdsale,contracts/tokenmarketnet/contracts/Crowdsale.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+EthTranchePricing,contracts/tokenmarketnet/contracts/EthTranchePricing.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+VestingWallet,contracts/VestingWallet.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+AccessControl,contracts/AccessControl.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+CErc20,contracts/compound/contracts/CErc20.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+UniswapV2Pair,contracts/uniswap/UniswapV2Pair.sol,Public Benchmark / Curated Source,https://github.com/crytic/not-so-smart-contracts
+TradeReactor,contracts/market/TradeReactor.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+Rubixi,contracts/Rubixi.sol,Public Smart-Contract Benchmark Collections,https://github.com/crytic/not-so-smart-contracts
+ComptrollerStorage,contracts/compound/contracts/ComptrollerStorage.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+ExponentialNoError,contracts/compound/contracts/ExponentialNoError.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+BrokerbotRouter,contracts/brokerbot/BrokerbotRouter.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+UniswapV2Router01,contracts/uniswapv2_periphery/UniswapV2Router01.sol,Uniswap V2 Periphery,https://github.com/Uniswap/v2-periphery
+RecoveryHub,contracts/recovery/RecoveryHub.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+TokenVault,contracts/tokenmarketnet/contracts/TokenVault.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+SecurityToken,contracts/tokenmarketnet/contracts/security-token/SecurityToken.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+GovernorBravoInterfaces,contracts/compound/contracts/Governance/GovernorBravoInterfaces.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+Shares,contracts/shares/Shares.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+MultiSigWallet,contracts/multisig/MultiSigWallet.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+ERC20Flaggable,contracts/ERC20/ERC20Flaggable.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+Comp,contracts/compound/contracts/Governance/Comp.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+SafeERC20,contracts/SafeERC20.sol,OpenZeppelin-style Public Implementations,https://github.com/OpenZeppelin/openzeppelin-contracts
+Offer,contracts/draggable/Offer.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+UniswapV2Router02,contracts/uniswapv2_periphery/UniswapV2Router02.sol,Uniswap V2 Periphery,https://github.com/Uniswap/v2-periphery
+BecToken,contracts/BecToken.sol,Public Smart-Contract Benchmark Collections,https://github.com/crytic/not-so-smart-contracts
+PreICOProxyBuyer,contracts/tokenmarketnet/contracts/PreICOProxyBuyer.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+ERC2771Forwarder,contracts/metatx/ERC2771Forwarder.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+ERC20Draggable,contracts/draggable/ERC20Draggable.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+SecondaryMarket,contracts/market/SecondaryMarket.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+CheckpointToken,contracts/tokenmarketnet/contracts/security-token/CheckpointToken.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+PaymentHub,contracts/brokerbot/PaymentHub.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+CTokenInterfaces,contracts/compound/contracts/CTokenInterfaces.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+Brokerbot,contracts/brokerbot/Brokerbot.sol,Aktionariat Contracts,https://github.com/aktionariat/contracts
+CompoundLens,contracts/compound/contracts/Lens/CompoundLens.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+CErc20Delegator,contracts/compound/contracts/CErc20Delegator.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+CrowdsaleBase,contracts/tokenmarketnet/contracts/CrowdsaleBase.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+GnosisWallet,contracts/tokenmarketnet/contracts/GnosisWallet.sol,TokenMarketNet smart-contracts,https://github.com/TokenMarketNet/smart-contracts
+GovernorBravoDelegateG1,contracts/compound/contracts/Governance/GovernorBravoDelegateG1.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+GovernorBravoDelegateG2,contracts/compound/contracts/Governance/GovernorBravoDelegateG2.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+GovernorBravoDelegate,contracts/compound/contracts/Governance/GovernorBravoDelegate.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+GovernorAlpha,contracts/compound/contracts/Governance/GovernorAlpha.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+CToken,contracts/compound/contracts/CToken.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+SmartBillions,contracts/SmartBillions.sol,Public Smart-Contract Benchmark Collections,https://github.com/crytic/not-so-smart-contracts
+Governor,contracts/Governor.sol,CodeforDAO Contracts,https://github.com/CodeForDAO/contracts
+Comptroller,contracts/compound/contracts/Comptroller.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol
+ComptrollerG7,contracts/compound/contracts/ComptrollerG7.sol,Compound Protocol,https://github.com/compound-finance/compound-protocol

@@ -1,0 +1,5 @@
+configuration,overall_score,delta_vs_base,semantic_understanding_score,function_coverage,branch_coverage
+Base,42.0825,0.0,12.2596,53.125,6.389
+Base + Semantic,43.1056,1.0231,11.5338,57.639,7.3613
+Base + Structure,42.5908,0.5083,10.756,56.9446,7.0833
+Full Framework,43.6567,1.5742,12.1219,59.0279,9.4446

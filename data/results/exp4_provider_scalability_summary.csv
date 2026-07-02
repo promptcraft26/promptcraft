@@ -1,0 +1,4 @@
+provider,successful_tests,total_tests,success_rate,avg_generation_time,avg_generated_test_cases,avg_complexity_score,function_coverage,branch_coverage
+gemini,36,40,0.9,4.6164,15.0278,0.3238,36.535,29.1444
+openai,36,40,0.9,7.0477,13.8889,0.3238,59.0053,32.3378
+claude,36,40,0.9,16.9828,13.5556,0.3238,29.9242,33.8592

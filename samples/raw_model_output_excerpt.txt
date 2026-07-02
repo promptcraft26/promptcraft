@@ -1,0 +1,14 @@
+Representative sanitized raw model-output excerpt
+===============================================
+This excerpt is intentionally redacted and shortened. It illustrates the format
+that the private generation backend receives before CSV normalization.
+
+TC01 | hasRole | Functional | High
+Pre-State: Deploy contract and grant ROLE_A to account1
+Inputs: role=ROLE_A, account=account1
+Expected: Returns true
+
+TC02 | hasRole | Edge | Medium
+Pre-State: Deploy contract without granting ROLE_B
+Inputs: role=ROLE_B, account=account2
+Expected: Returns false

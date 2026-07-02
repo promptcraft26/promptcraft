@@ -1,0 +1,5 @@
+complexity_level,avg_complexity_score,avg_generation_time,avg_test_cases,openai_avg_generation_time,openai_avg_test_cases,claude_avg_generation_time,claude_avg_test_cases,gemini_avg_generation_time,gemini_avg_test_cases
+low,0.0271,8.0499,10.7333,3.8116,5.4,16.0072,13.4,4.3309,13.4
+medium,0.2871,9.6549,15.3095,7.1629,15.2857,17.1759,15.4286,4.6258,15.2143
+high,0.3952,9.5837,13.5,7.1959,16.5,16.9302,11.5,4.6251,12.5
+very_high,0.7233,11.2202,16.75,10.8171,20.75,17.8908,11.5,4.9528,18.0

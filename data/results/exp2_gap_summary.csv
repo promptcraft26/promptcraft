@@ -1,0 +1,2 @@
+benchmark_contracts,providers,observations,mean_zero_shot_syntactic_composite,mean_zero_shot_semantic_understanding,structural_to_semantic_understanding_ratio
+60,7,420,19.5094,12.7871,1.5257

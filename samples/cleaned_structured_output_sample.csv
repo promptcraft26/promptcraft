@@ -1,0 +1,2 @@
+Test Case ID,Function Under Test,Description,Pre-State Setup,Input Parameters,Expected Outcome,Category,Priority
+TC01,hasRole,Check if an account has a specific role when role is granted,Deploy contract and grant ROLE_A to account1,role=ROLE_A account=account1,Returns true,Functional,High

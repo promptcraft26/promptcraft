@@ -1,0 +1,106 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">PromptCraft five-layer architecture</title>
+  <desc id="desc">A horizontal five-layer overview of PromptCraft showing Input, Contract Understanding, Prompt and Generation, Automated Evaluation, and Validation layers.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#131A2B"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="2000" height="800" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+    <style>
+      .title { font: 700 34px 'Segoe UI', Arial, sans-serif; fill: #F3F6FF; }
+      .subtitle { font: 400 16px 'Segoe UI', Arial, sans-serif; fill: #A9B6D3; }
+      .card-title { font: 700 20px 'Segoe UI', Arial, sans-serif; fill: #F8FAFF; }
+      .card-text { font: 400 14px 'Segoe UI', Arial, sans-serif; fill: #D0DAEE; }
+      .chip { font: 700 13px 'Segoe UI', Arial, sans-serif; fill: #0B1020; }
+      .arrow-label { font: 600 12px 'Segoe UI', Arial, sans-serif; fill: #8EA2CF; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="420" rx="28" fill="url(#bg)"/>
+  <text x="70" y="70" class="title">PromptCraft Five-Layer Architecture</text>
+  <text x="70" y="102" class="subtitle">A GitHub-friendly overview of the evaluation pipeline for LLM-generated smart contract tests</text>
+
+  <g filter="url(#shadow)">
+    <rect x="58" y="150" width="260" height="190" rx="24" fill="#151F35" stroke="#2B3B61"/>
+    <rect x="82" y="172" width="52" height="26" rx="13" fill="#5EEAD4"/>
+    <text x="95" y="190" class="chip">Layer 1</text>
+    <circle cx="110" cy="235" r="28" fill="#1D8B7A"/>
+    <rect x="96" y="221" width="28" height="28" rx="5" stroke="#E8FFFB" stroke-width="3"/>
+    <path d="M101 229H119M101 236H119M101 243H114" stroke="#E8FFFB" stroke-width="3" stroke-linecap="round"/>
+    <text x="82" y="284" class="card-title">Input Layer</text>
+    <text x="82" y="312" class="card-text">Contract sources</text>
+    <text x="82" y="333" class="card-text">Experiment configs</text>
+    <text x="82" y="354" class="card-text">Prompt assets and providers</text>
+
+    <rect x="356" y="150" width="260" height="190" rx="24" fill="#151F35" stroke="#2B3B61"/>
+    <rect x="380" y="172" width="52" height="26" rx="13" fill="#93C5FD"/>
+    <text x="393" y="190" class="chip">Layer 2</text>
+    <circle cx="408" cy="235" r="28" fill="#245D99"/>
+    <path d="M395 244C399 236 405 231 413 228C422 225 428 217 429 208" stroke="#EFF6FF" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="394" cy="246" r="4" fill="#EFF6FF"/>
+    <circle cx="414" cy="228" r="4" fill="#EFF6FF"/>
+    <circle cx="429" cy="207" r="4" fill="#EFF6FF"/>
+    <text x="380" y="284" class="card-title">Contract Understanding</text>
+    <text x="380" y="312" class="card-text">Functions and conditions</text>
+    <text x="380" y="333" class="card-text">Business-rule candidates</text>
+    <text x="380" y="354" class="card-text">Complexity profiling</text>
+
+    <rect x="654" y="150" width="260" height="190" rx="24" fill="#151F35" stroke="#2B3B61"/>
+    <rect x="678" y="172" width="52" height="26" rx="13" fill="#F9A8D4"/>
+    <text x="691" y="190" class="chip">Layer 3</text>
+    <circle cx="706" cy="235" r="28" fill="#A33773"/>
+    <rect x="694" y="223" width="25" height="18" rx="4" stroke="#FFF1F8" stroke-width="3"/>
+    <path d="M700 217L706 211L713 217" stroke="#FFF1F8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M691 248H721" stroke="#FFF1F8" stroke-width="3" stroke-linecap="round"/>
+    <text x="678" y="284" class="card-title">Prompt and Generation</text>
+    <text x="678" y="312" class="card-text">Prompt construction</text>
+    <text x="678" y="333" class="card-text">Few-shot injection</text>
+    <text x="678" y="354" class="card-text">Multi-provider test output</text>
+
+    <rect x="952" y="150" width="260" height="190" rx="24" fill="#151F35" stroke="#2B3B61"/>
+    <rect x="976" y="172" width="52" height="26" rx="13" fill="#FCD34D"/>
+    <text x="989" y="190" class="chip">Layer 4</text>
+    <circle cx="1004" cy="235" r="28" fill="#B37A0B"/>
+    <path d="M990 247L999 236L1006 242L1018 225" stroke="#FFF8E1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M991 220V248H1019" stroke="#FFF8E1" stroke-width="3" stroke-linecap="round"/>
+    <text x="976" y="284" class="card-title">Automated Evaluation</text>
+    <text x="976" y="312" class="card-text">Coverage metrics</text>
+    <text x="976" y="333" class="card-text">Semantic and security signals</text>
+    <text x="976" y="354" class="card-text">Efficiency measures</text>
+
+    <rect x="1250" y="150" width="260" height="190" rx="24" fill="#151F35" stroke="#2B3B61"/>
+    <rect x="1274" y="172" width="52" height="26" rx="13" fill="#A7F3D0"/>
+    <text x="1287" y="190" class="chip">Layer 5</text>
+    <circle cx="1302" cy="235" r="28" fill="#1D8A5B"/>
+    <path d="M1288 240C1293 228 1301 222 1312 221C1318 220 1324 217 1328 211" stroke="#ECFDF5" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="1289" cy="241" r="4" fill="#ECFDF5"/>
+    <circle cx="1312" cy="221" r="4" fill="#ECFDF5"/>
+    <circle cx="1328" cy="211" r="4" fill="#ECFDF5"/>
+    <text x="1274" y="284" class="card-title">Validation Layer</text>
+    <text x="1274" y="312" class="card-text">Cross-provider analysis</text>
+    <text x="1274" y="333" class="card-text">Ablation and scalability</text>
+    <text x="1274" y="354" class="card-text">Human expert assessment</text>
+  </g>
+
+  <g>
+    <path d="M318 245H356" stroke="#6A7FAF" stroke-width="4" stroke-linecap="round"/>
+    <path d="M346 237L356 245L346 253" stroke="#6A7FAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <path d="M616 245H654" stroke="#6A7FAF" stroke-width="4" stroke-linecap="round"/>
+    <path d="M644 237L654 245L644 253" stroke="#6A7FAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <path d="M914 245H952" stroke="#6A7FAF" stroke-width="4" stroke-linecap="round"/>
+    <path d="M942 237L952 245L942 253" stroke="#6A7FAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <path d="M1212 245H1250" stroke="#6A7FAF" stroke-width="4" stroke-linecap="round"/>
+    <path d="M1240 237L1250 245L1240 253" stroke="#6A7FAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <text x="332" y="232" class="arrow-label">extract</text>
+    <text x="630" y="232" class="arrow-label">orchestrate</text>
+    <text x="931" y="232" class="arrow-label">score</text>
+    <text x="1230" y="232" class="arrow-label">validate</text>
+  </g>
+</svg>

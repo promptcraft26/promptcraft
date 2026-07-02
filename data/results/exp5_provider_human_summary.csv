@@ -1,0 +1,7 @@
+provider,relevance_score,realism_score,effectiveness_score,overall_quality_score
+claude,4.8387,4.5484,4.4086,4.4731
+deepseek,4.8286,4.4476,4.219,4.2857
+gemini,4.7556,4.5222,4.1333,4.2889
+grok,4.8333,4.5093,4.3796,4.3889
+kimi,4.6863,4.4608,4.2451,4.2941
+openai,4.7843,4.4902,4.0098,4.2647

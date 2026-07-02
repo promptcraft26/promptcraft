@@ -1,0 +1,5 @@
+complexity_tier,overall_score,avg_test_cases_generated,function_coverage,branch_coverage,boundary_coverage,exception_coverage,business_logic_coverage,syntactic_composite,semantic_understanding,business_logic_alignment,test_relevance,semantic_composite,security_composite
+Low,53.14,5.4,80.0,40.0,20.0,40.0,10.0,45.0,16.68,80.0,63.84,53.5,12.73
+Medium,54.39,5.0,80.0,10.0,0.0,20.0,0.0,27.5,18.22,65.0,63.19,48.8,35.87
+High,53.09,14.0,65.56,56.0,6.67,60.0,6.67,47.06,16.53,77.5,65.04,53.02,30.2
+Very High,58.75,16.4,78.13,39.05,60.0,40.0,11.48,54.29,17.38,72.84,74.2,54.81,36.03
